@@ -1,14 +1,3 @@
-### Hi there 👋
 
-                                                       @@@"""""""""""""*
-                                                      @" ___ _______________________________________________________
-                                                     II__[w] | [i] [z] || [i] [z] || [i] [z] || [i] [z] || [i] [z] |
-                                                    {======|_|~~~~~~~~~||~~~~~~~~~||~~~~~~~~~||~~~~~~~~~||~~~~~~~~~|
-                                                   /oO--000'"`-OO---OO-'`-OO---OO-'`-OO---OO-'`-OO---OO-'`-OO---OO-'
-    ================================================================================================================
-********************************************************************************************************************
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my own startup
-- 🌱 I’m currently learning GO and microservices
+<img src="https://i7.pngguru.com/preview/822/553/319/deadpool-2-youtube-art-comics-funny-character.jpg" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
